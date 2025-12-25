@@ -13,7 +13,7 @@ from app.schemas.types import EventType
 
 
 class MediaServerRefresh(_PluginBase):
-    plugin_name = "媒体库服务器刷新"
+    plugin_name = "媒体库服务器刷新9"
     plugin_desc = "入库后自动刷新 Emby / Jellyfin / Plex 媒体库（不刷新根目录）"
     plugin_icon = "refresh2.png"
     plugin_version = "1.4.0"
