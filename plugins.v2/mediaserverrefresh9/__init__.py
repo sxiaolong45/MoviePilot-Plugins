@@ -12,9 +12,9 @@ from app.schemas import TransferInfo, RefreshMediaItem, ServiceInfo
 from app.schemas.types import EventType
 
 
-class MediaServerRefresh(_PluginBase):
+class MediaServerRefresh1(_PluginBase):
     # 插件名称
-    plugin_name = "媒体库服务器刷新"
+    plugin_name = "媒体库服务器刷新1"
     # 插件描述
     plugin_desc = "入库后自动刷新Emby/Jellyfin/Plex服务器海报墙（优化版）。"
     # 插件图标
@@ -26,7 +26,7 @@ class MediaServerRefresh(_PluginBase):
     # 作者主页
     author_url = "https://github.com/jxxghp"
     # 插件配置项ID前缀
-    plugin_config_prefix = "mediaserverrefresh_"
+    plugin_config_prefix = "mediaserverrefresh1_"
     # 加载顺序
     plugin_order = 14
     # 可使用的用户级别
