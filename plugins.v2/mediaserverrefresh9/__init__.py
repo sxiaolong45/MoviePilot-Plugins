@@ -16,15 +16,15 @@ class MediaServerRefresh(_PluginBase):
     # 插件名称
     plugin_name = "媒体库服务器刷新"
     # 插件描述
-    plugin_desc = "入库后自动刷新Emby/Jellyfin/Plex服务器海报墙（已优化多剧集去重逻辑）。"
+    plugin_desc = "入库刷新媒体库"
     # 插件图标
     plugin_icon = "refresh2.png"
     # 插件版本
-    plugin_version = "1.3.4"
+    plugin_version = "9.9.9"
     # 插件作者
-    plugin_author = "jxxghp"
+    plugin_author = "sxiaolong45"
     # 作者主页
-    author_url = "https://github.com/jxxghp"
+    author_url = "https://github.com/sxiaolong45"
     # 插件配置项ID前缀
     plugin_config_prefix = "mediaserverrefresh_"
     # 加载顺序
