@@ -4,7 +4,7 @@
     "description": "入库自动刷新媒体库",
     "labels": "刷新,媒体库",
     "version": "9.9.9",
-    "icon": "Macos_Sierra.png",
+    "icon": "refresh2.png",
     "author": "sxiaolong45",
     "level": 1,
     "history": {
